@@ -42,6 +42,8 @@
     cd ~
     tree ~/workspace
     ```
+![image](https://github.com/user-attachments/assets/4a0a5d2a-32a5-4ef8-8ef3-c93fbf33f75f)
+  
 ### Task 3: Add Content to Files
 11. Open `report1.txt` in a text editor (e.g., `nano` or `vim`) and add some sample content:
     ```plaintext
